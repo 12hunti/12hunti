@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Javascript with Northcoders
 
-🔭 I’m currently working on a back end project as part of the course
+🔭 I’m currently working on a back end project as part of the course -> https://github.com/12hunti/nc-news-be
 
 😄 Pronouns: she/her
 
