@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Javascript with Northcoders
+🔭 I’m currently working on a back end project as part of the course
+
+😄 Pronouns: she/her
+
 <!--
 **12hunti/12hunti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
