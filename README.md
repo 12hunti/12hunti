@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🌱 I’m currently learning Javascript with Northcoders
+
 🔭 I’m currently working on a back end project as part of the course
 
 😄 Pronouns: she/her
