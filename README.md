@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Javascript with Northcoders
+🌱 I’m currently learning Javascript, HTML and CSS with Northcoders
 
-🔭 I’m currently working on a back end project as part of the course -> https://github.com/12hunti/nc-news-be
+🔭 I’ve completed a back end project using JS as part of the course that mimics the back end of a news app -> https://github.com/12hunti/nc-news-be
+
+🔭 As part of the course I’m currently working on a front end project using JS, HTML and CSS. This will create a news app where users can browser and read articles, vote and comment on them -> https://github.com/12hunti/nc-news-fe
 
 😄 Pronouns: she/her
 
